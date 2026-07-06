@@ -4,9 +4,11 @@
 
 I'm a full-stack engineer passionate about building highly optimized web applications and deploying machine learning models at the edge. I focus on creating impact through clean code, structured architecture, and minimalist design.
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ynshung/ynshung/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ynshung/ynshung/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+### 📈 Contribution Activity Graph
+<!-- A sleek, dynamic wave graph representing your real-time git metrics -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shad0409&theme=react-dark&hide_border=true&area=true)
 
-While you're here...
+---
 
 ### ⌨️ Tech Stack & Skills Matrix
 
@@ -45,11 +47,15 @@ While you're here...
 * **DevOps & Infrastructure:** Docker, systemd, Nginx, Railway, Vercel, Netlify
 </details>
 
+---
+
 ### 📂 Highlighted Projects
 
 * **JomCombo** - A complete POS platform featuring a robust Laravel and Vue.js ecosystem deployed smoothly across live VPS infrastructure.
 * **Hayat Profile** - A specialized clinical ecosystem integrating smart document digitization pipeline designs and longitudinal health tracking modules.
 * **PlayVia** - A sleek, high-performing media marketplace platform for renting cameras and high-tier consoles.
+
+---
 
 ### 📊 Github Performance Metrics
 
@@ -59,6 +65,7 @@ While you're here...
 
 <br/>
 
+<!-- Real-time metrics breakdown showing Stars, Commits, PRs, and Issues -->
 ![](https://github-readme-stats.vercel.app/api?username=shad0409&theme=slateorange&count_private=true&show_icons=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0409&theme=slateorange&layout=compact&langs_count=6)
 
@@ -67,8 +74,7 @@ While you're here...
 ---
 
 ### 🌐 Let's Connect
-<a href="https://www.linkedin.com/in/irshad-razak-a1470224a/" target="_blank">
-  <img height="32" src="https://raw.githubusercontent.com/dicksontan2618/dicksontan2618/master/assets/linkedin-color.svg" alt="LinkedIn">
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irshad-razak-a1470224a/)
 
 Thanks for stopping by! Feel free to look around my repositories. 🚀
