@@ -57,7 +57,7 @@ I'm a full-stack engineer passionate about building highly optimized web applica
 
 ---
 
-### 📊 Github Performance Metrics
+### 📊 Github Metrics
 
 <div align="center">
   <!-- Unified card tracked daily using the react color theme layout -->
