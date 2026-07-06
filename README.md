@@ -1,60 +1,73 @@
 ## Heya, welcome! 👋
 
-> Current status: Designing, Coding & Deploying 👨‍💻
+> Current status: Architecting Full-Stack Systems & Edge AI 🚀
 
-I'm a full-stack developer and engineer who loves building clean, impactful web applications and working with edge AI. I have a strong affinity for minimalist design aesthetics and high-performance setups.
+I'm a full-stack engineer passionate about building highly optimized web applications and deploying machine learning models at the edge. I focus on creating impact through clean code, structured architecture, and minimalist design.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ynshung/ynshung/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ynshung/ynshung/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 While you're here...
 
-### ⌨️ Tech Stack & Skills
+### ⌨️ Tech Stack & Skills Matrix
 
-#### Full-Stack Web Development
-[![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+#### 🌐 Frontend & Core Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://page.framer.com/motion/)
 
-#### AI, Embedded & Systems
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+#### ⚙️ Backend & Databases
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+#### 🤖 AI / ML & Systems
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA_DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/deepstream-sdk)
+[![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=analytics&logoColor=black)](https://ultralytics.com/)
 
 <details>
-<summary><b>More Tools & Deployment</b></summary>
+<summary><b>More Tools & Niche Frameworks</b></summary>
 <br>
 
-[![Hostinger](https://img.shields.io/badge/Hostinger-%23673AB7.svg?style=flat&logo=hostinger&logoColor=white)](https://hostinger.com/)
-[![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+* **Languages:** Go, HTML5/CSS3
+* **Frontend/Visuals:** Three.js
+* **AI/ML Integration:** TensorRT, CLIP, Ollama VLM, Tesseract.js, LanceDB, DuckDB
+* **DevOps & Infrastructure:** Docker, systemd, Nginx, Railway, Vercel, Netlify
 </details>
 
 ### 📂 Highlighted Projects
 
-* **JomCombo** - A custom Laravel and Vue.js powered Point of Sale (POS) ecosystem deployed on cloud infrastructure.
-* **Hayat Profile** - A specialized clinical management system focused on data digitization, analytics, and health tracking.
-* **PlayVia** - A custom rental marketplace web platform designed for sharing premium cameras and gaming consoles.
+* **JomCombo** - A complete POS platform featuring a robust Laravel and Vue.js ecosystem deployed smoothly across live VPS infrastructure.
+* **Hayat Profile** - A specialized clinical ecosystem integrating smart document digitization pipeline designs and longitudinal health tracking modules.
+* **PlayVia** - A sleek, high-performing media marketplace platform for renting cameras and high-tier consoles.
 
 ### 📊 Github Performance Metrics
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shad0409&theme=dracula&hide_border=true)
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=slateorange&count_private=true&show_icons=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=slateorange&layout=compact&langs_count=6)
+![](https://github-readme-stats.vercel.app/api?username=shad0409&theme=slateorange&count_private=true&show_icons=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0409&theme=slateorange&layout=compact&langs_count=6)
 
 </div>
 
 ---
 
 ### 🌐 Let's Connect
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLENAME/" target="_blank">
+<a href="https://www.linkedin.com/in/irshad-razak-a1470224a/" target="_blank">
   <img height="32" src="https://raw.githubusercontent.com/dicksontan2618/dicksontan2618/master/assets/linkedin-color.svg" alt="LinkedIn">
 </a>
 
