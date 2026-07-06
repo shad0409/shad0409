@@ -61,18 +61,18 @@ I'm a full-stack engineer passionate about building highly optimized web applica
 
 <div align="center">
 
-<!-- Real-time Streak Counter -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=shad0409&theme=dracula&hide_border=true)
+<!-- Real-time Streak Counter (Updated theme to react to match the top wave graph) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=shad0409&theme=react&hide_border=true)
 
 <br/>
 
-<!-- Detailed Metrics Card (Stars, Commits, PRs, Issues) -->
-![](https://github-readme-stats.vercel.app/api?username=shad0409&theme=slateorange&count_private=true&show_icons=true&include_all_commits=true)
+<!-- Stable Metrics Card showing Total Stars, Commits, PRs, and Issues -->
+![](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=shad0409&theme=react&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)
 
 <br/>
 
-<!-- Top Languages Chart -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0409&theme=slateorange&layout=compact&langs_count=6)
+<!-- Stable Top Languages Chart -->
+![](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=shad0409&theme=react&layout=compact&langs_count=6&hide_border=true)
 
 </div>
 
