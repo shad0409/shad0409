@@ -61,12 +61,17 @@ I'm a full-stack engineer passionate about building highly optimized web applica
 
 <div align="center">
 
+<!-- Real-time Streak Counter -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shad0409&theme=dracula&hide_border=true)
 
 <br/>
 
-<!-- Real-time metrics breakdown showing Stars, Commits, PRs, and Issues -->
+<!-- Detailed Metrics Card (Stars, Commits, PRs, Issues) -->
 ![](https://github-readme-stats.vercel.app/api?username=shad0409&theme=slateorange&count_private=true&show_icons=true&include_all_commits=true)
+
+<br/>
+
+<!-- Top Languages Chart -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0409&theme=slateorange&layout=compact&langs_count=6)
 
 </div>
@@ -76,5 +81,6 @@ I'm a full-stack engineer passionate about building highly optimized web applica
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irshad-razak-a1470224a/)
+[![Website](https://img.shields.io/badge/Personal_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shadlio.netlify.app/)
 
 Thanks for stopping by! Feel free to look around my repositories. 🚀
