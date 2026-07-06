@@ -60,8 +60,8 @@ I'm a full-stack engineer passionate about building highly optimized web applica
 ### 📊 Github Performance Metrics
 
 <div align="center">
-  <!-- Extended unified card using the react theme with private metrics enabled -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shad0409&theme=react&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
+  <!-- Unified card tracked daily using the react color theme layout -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shad0409&theme=react&hide_border=true&mode=daily" alt="GitHub Streak Stats" />
 </div>
 
 ---
