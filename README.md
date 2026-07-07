@@ -57,15 +57,6 @@ I'm a full-stack engineer passionate about building highly optimized web applica
 
 ---
 
-### 📊 Github Metrics
-
-<div align="center">
-  <!-- Unified card tracked daily using the react color theme layout -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shad0409&theme=react&hide_border=true&mode=daily" alt="GitHub Streak Stats" />
-</div>
-
----
-
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irshad-razak-a1470224a/)
